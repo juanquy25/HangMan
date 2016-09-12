@@ -1,0 +1,11 @@
+                                                 Hangman
+Word to be guessed 
++ Should be a word and not phrase 
++ not contain a number or special character(including spaces).
++  Converted to lowercase
+
+Guess input
++ Should be a 1 character and not a number or special character(including spaces).
++ converted to lowercase
++ compared to "word to be guessed"
++
